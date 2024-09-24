@@ -247,7 +247,7 @@ msgid ""
 msgstr ""
 "\\begin{itemize}\n"
 "  \\item Pozemní \\svg{unit_ground} a Létající \\svg{unit_flying} Jednotky nepřátel upřednostňují útok na Jednotky \\textbf{stejné} úrovně.\n"
-"   Pokud to není možné, útočí na Jednotku nižší úrovně (v sestupném pořadí úrovní, až po bronzovou), a pokud to také není možné, útočí na Jednotku vyšší úrovně (ve \\textbf{vzestupném}qq pořadí úrovní).\\par\n"
+"   Pokud to není možné, útočí na Jednotku nižší úrovně (v sestupném pořadí úrovní, až po bronzovou), a pokud to také není možné, útočí na Jednotku vyšší úrovně (ve \\textbf{vzestupném} pořadí úrovní).\\par\n"
 "\n"
 
 #. type: multicols
